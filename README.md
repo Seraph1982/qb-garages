@@ -1,4 +1,5 @@
 # qb-garages
+**this is not my repo im only add the locales/de.lua
 
 **Public Depot**
 * Park owned cars in public garages. Configure the garages on config.lua.
